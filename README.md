@@ -1,6 +1,3 @@
-# hello-world
-Test
-## Test 2
-1. dbdfgd
-1. dfgdfg
-1. dgdfg
+## Jekyll Documentation theme
+
+Build the site to see the instructions for using it. Or just go here: [http://idratherbewriting.com/documentation-theme-jekyll/](http://idratherbewriting.com/documentation-theme-jekyll/)
